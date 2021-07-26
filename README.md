@@ -6,4 +6,4 @@ This project allows you to view prices of cryptocurrency from wazirx and binance
 I fetched the cryptocurrency values from wazirx and binance public api using axios.
 Used Firebase for email/password authentication. Used React-Router-Dom for navigation. 
 
-The wazirx dropdown values were fetched from API, so it takes time to fetch the option in dropdown.
+The wazirx dropdown values were fetched from API, so it takes time to fetch the options in dropdown.
